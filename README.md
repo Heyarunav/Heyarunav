@@ -1,3 +1,5 @@
+<img src="https://gh.crafter.run/Heyarunav?theme=dark" width="100%" />
+
 ## Hi there 👋
 
 # 💫 About Me:
@@ -27,7 +29,7 @@
 [![](https://komarev.com/ghpvc/?username=Heyarunav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**Heyarunav/Heyarunav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Heyarunav/Heyarunav** is a ✨ _special_ ✨ repository because it appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
