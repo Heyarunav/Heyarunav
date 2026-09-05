@@ -1,6 +1,6 @@
 <img src="https://gh.crafter.run/Heyarunav?theme=dark" width="100%" />
 
-### Hi I am Arunav Kalita👋, I am Arunav Kalita, a Python and R developer...)
+### Hi I am Arunav Kalita👋, a Python and R developer...)
 
 # 💫 About Me:
 🔭 I’m currently working on projects bridging computational neurology, bioinformatics, and generative AI agents.<br><br>👯 I’m looking to collaborate on open-source AI tooling, computational biology research, and competitive hackathon builds.<br><br>🤝 I’m looking for help with scaling neural data pipelines and optimizing complex agentic LLM workflows.<br><br>🌱 I’m currently learning advanced prompt engineering frameworks, computational neuroscience modeling, and cloud-native development.<br><br>💬 Ask me about bioinformatics, GenAI architectures, tech communities, or compiling flawless LaTeX documents.<br><br>⚡ Fun fact I enjoy decoding complex neural networks, but nothing truly tests my patience like hunting down a missing curly brace in a LaTeX file.
